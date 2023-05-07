@@ -1,1 +1,2 @@
 # webscraping_project1
+This project does web scraping from flipkart. First, you have to provide products or brands name as first input and then it shows total page available about your first input. Then you need to provide the no. of page you want to search as second input. It will print product name, rating, rating count price and product url as output. Finally, it saves the output creating new excel file.
